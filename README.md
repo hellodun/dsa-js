@@ -1,2 +1,2 @@
 # dsa-js
-Data Structures and Algorithms Tutorial - JavaScript
+Data Structures and Algorithms in JavaScript
